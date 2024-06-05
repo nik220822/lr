@@ -1,0 +1,11 @@
+[t88]
+FileName1=t88_flights.gif
+URL1=http://localhost:1080/WebTours/images/flights.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_88.xml
+RequestHeaderFile=t88_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t88_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

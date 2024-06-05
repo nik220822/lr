@@ -1,0 +1,19 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2024/05/30 12:15:35
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2024/05/30 12:17:47
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2024/06/02 12:22:20
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2024/06/02 12:28:18
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2024/06/02 13:04:36
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2024/06/02 13:16:07
+StartRecordingIsDst_6=0
+StartRecordingGMT_7=2024/06/02 13:21:51
+StartRecordingIsDst_7=0
+[Security]
+UsingPersistForAuthentication=1
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0

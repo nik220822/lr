@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\User_1\Documents\VuGen\Scripts\UC5_CancelFlight
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\user_1\documents\vugen\scripts\uc5_cancelflight\\logfile.log
+c:\users\user_1\documents\vugen\scripts\uc5_cancelflight\\combined_UC5_CancelFlight.c
+c:\users\user_1\documents\vugen\scripts\uc5_cancelflight\\pre_cci.c

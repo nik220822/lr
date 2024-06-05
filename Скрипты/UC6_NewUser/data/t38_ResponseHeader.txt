@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+x-goog-generation: 1710789830520587
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 10862
+x-goog-hash: crc32c=ugLQ9w==
+x-goog-hash: md5=08ZP0PlRAtR8vaAEbzQ0dw==
+x-goog-storage-class: STANDARD
+Accept-Ranges: bytes
+Content-Length: 10862
+X-GUploader-UploadID: ABPtcPqtMRsihVcdfgmzXDniCVvziOLfZFNucU_qY0dZ6WsARaMlueeCpx20n-nRuiz7HMzhnh-LNo7e6A
+Server: UploadServer
+Date: Sun, 02 Jun 2024 11:42:51 GMT
+Age: 2775
+Last-Modified: Mon, 18 Mar 2024 19:23:50 GMT
+ETag: "d3c64fd0f95102d47cbda0046f343477"
+Content-Type: image/jpeg
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+

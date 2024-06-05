@@ -1,0 +1,2 @@
+"userSession=139132.864398542HVfzztzpHVcftcQDQpiiAcHf&username=robertopp&password=atomicbomb&lo"
+"gin.x=64&login.y=15&JSFormSubmit=off"

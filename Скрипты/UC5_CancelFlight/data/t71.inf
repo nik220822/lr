@@ -1,0 +1,11 @@
+[t71]
+FileName1=t71.htm
+URL1=http://localhost:1080/cgi-bin/itinerary.pl
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_71.xml
+RequestHeaderFile=t71_RequestHeader.txt
+RequestBodyFile=t71_RequestBody.txt
+ResponseHeaderFile=t71_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

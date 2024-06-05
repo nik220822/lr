@@ -1,0 +1,9 @@
+[t81]
+FileName1=t81.html
+URL1=http://localhost:1080/WebTours/header.html
+Total=1
+RequestHeaderFile=t81_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t81_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_81.xml

@@ -1,0 +1,1693 @@
+[API Trapper      (a22c:902c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      (5a20:339c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (5a20:5da8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (5a20:5da8)] Load Network Traffic Analyzers:
+[Network Analyzer (5a20:5da8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (5a20:5da8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (5a20:5da8)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (5a20:5da8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (5a20:5da8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (5a20:5da8)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (5a20:5da8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (5a20:4f24)] Address lookup for SILVA = 192.168.56.1
+[Net An. Debug    (5a20:4f24)] IP address belongs to the VirtualBox, taking the another interface with ip=192.168.0.101
+[Network Analyzer (5a20:5da8)] Establish Listener @ 127.0.0.1:20950
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[API Trapper      (6ba0:8284)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:20950   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 80  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 64.233.161.95:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:3ba0)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:86d4)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:9df4)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:24b0)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:279c)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:8bd4)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:8bd4)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:91cc)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:99fc)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20: c30)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5a20:99fc)] SSLAccept(ssl_id = 3022646575360 = 000002BFC3C68100) Failed, ctx = 000002BFC3B1DAF0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (5a20:91cc)] SSLAccept(ssl_id = 3022646134448 = 000002BFC3BFC6B0) Failed, ctx = 000002BFC3B1DAF0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (5a20:24b0)] SSLAccept(ssl_id = 3022775442576 = 000002BFCB74DC90) Failed, ctx = 000002BFC3B1DAF0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (5a20:86d4)] SSLAccept(ssl_id = 3022775600800 = 000002BFCB7746A0) Failed, ctx = 000002BFCB76DEE0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (5a20:3ba0)] SSLAccept(ssl_id = 3022775309936 = 000002BFCB72D670) Failed, ctx = 000002BFC3B1DAF0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (5a20:99fc)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5a20:91cc)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5a20:24b0)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5a20:86d4)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (5a20:3ba0)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.117.188.166:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:2b60)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 5 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5a20:9df4)] SSLAccept(ssl_id = 3022775730272 = 000002BFCB794060) Failed, ctx = 000002BFCB787530, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (5a20:9df4)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:90b8)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 35.244.181.201:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:498c)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:9430)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (5a20:498c)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5a20:9430)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:a3ac)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 64.233.163.94:80   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (5a20:4010)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 192.229.221.95:80   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 20) Client -> Server @ : 441 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /wr2"   
+[Network Analyzer (5a20:4f24)]   (Sid: 19) Client -> Server @ : 437 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 19) Server -> Client : 231 bytes  (Service=HTTP)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 2.16.103.27:80   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 2.16.103.27:80   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 22) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 21) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 22) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 21) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 20) Server -> Client : 175 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:279c)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20: c30)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:2b60)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:90b8)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 2.19.204.139:80   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4010)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 2.19.204.139:80   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:a3ac)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 192.229.221.95:80   (Service=)  (Sid= 25)  PROXIED!
+[Web Request      (5a20:4f24)] "GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-en-US"   
+[Network Analyzer (5a20:4f24)]   (Sid:  8) Client -> Server @ : 395 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /update/6/Firefox/126.0.1/20240526221752/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%252010.0.0.0.22631.3593%2520(x64)/ISET%3ASSE4_2%2CMEM%3A15775/default/default/update.xml?force=1"   
+[Network Analyzer (5a20:4f24)]   (Sid:  7) Client -> Server @ : 474 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /"   
+[Network Analyzer (5a20:4f24)]   (Sid:  9) Client -> Server @ : 610 bytes (SSL)(Service=HTTP)
+[Web Request      (5a20:4f24)] "POST /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 25) Client -> Server @ : 441 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (5a20:4f24)] "POST /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 24) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 23) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  8) Server -> Client : 942 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 2.19.204.139:80   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 2.19.204.139:80   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 24) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 23) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  7) Server -> Client : 465 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  9) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 25) Server -> Client : 175 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]    (Sid:  9) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (5a20:4f24)]   (Sid:  9) Server -> Client : 20 bytes (SSL) (Service=WEBS)
+[Network Analyzer (5a20:4f24)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:80   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (5a20:4f24)] "GET /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 17) Client -> Server @ : 610 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (5a20:4f24)] "POST /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 27) Client -> Server @ : 440 bytes (Service=HTTP)
+[Web Request      (5a20:4f24)] "POST /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 26) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 23) Client -> Server @ : 440 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid: 23) Server -> Client : 888 bytes  (Service=HTTP)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 2.19.204.139:80   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 27) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 26) Server -> Client : 225 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 17) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 14) Connection Terminated (by Client)
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]    (Sid: 17) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (5a20:4f24)]   (Sid: 17) Server -> Client : 20 bytes (SSL) (Service=WEBS)
+[Network Analyzer (5a20:4f24)]   (Sid: 17) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (5a20:5da8)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 2.16.103.27:80   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/"   
+[Network Analyzer (5a20:4f24)]   (Sid: 31) Client -> Server @ : 392 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 31) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:9b38)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Net An. Error    (5a20:9b38)] SSLAccept(ssl_id = 3022646575360 = 000002BFC3C68100) Failed, ctx = 000002BFC3B1DAF0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (5a20:9b38)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (5a20:4f24)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.107.243.93:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /canonical.html"   
+[Network Analyzer (5a20:4f24)]   (Sid: 34) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (5a20:4f24)]   (Sid: 31) Client -> Server @ : 456 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 34) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:7cdc)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:7cdc)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:93e4)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid: 31) Server -> Client : 1025 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /"   
+[Network Analyzer (5a20:4f24)]   (Sid: 33) Client -> Server @ : 610 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (5a20:4f24)] "GET /favicon.ico"   
+[Network Analyzer (5a20:4f24)]   (Sid: 35) Client -> Server @ : 346 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 35) Server -> Client : 425 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (5a20:4f24)]   (Sid: 31) Client -> Server @ : 497 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:93e4)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (5a20:4f24)] "GET /WebTours/home.html"   
+[Network Analyzer (5a20:4f24)]   (Sid: 35) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 35) Server -> Client : 1659 bytes  (Service=HTTP)
+[Web Request      (5a20:4f24)] "GET /success.txt?ipv4"   
+[Network Analyzer (5a20:4f24)]   (Sid: 36) Client -> Server @ : 320 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 31) Server -> Client : 1754 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid: 36) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 33) Server -> Client : 240 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /dns-query"   
+[Network Analyzer (5a20:4f24)]   (Sid: 32) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 32) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 38)  PROXIED!
+[Web Request      (5a20:4f24)] "GET /WebTours/header.html"   
+[Network Analyzer (5a20:4f24)]   (Sid: 35) Client -> Server @ : 445 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 35) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (5a20:4f24)]   (Sid: 38) Client -> Server @ : 405 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:22c8)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid: 38) Server -> Client : 977 bytes  (Service=HTTP)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 33) WebSocket handshake detected, switching connection type from HTTP to WebSocket
+[Network Analyzer (5a20:4f24)]   (Sid: 33) Client -> Server @ : 117 bytes (SSL)(Service=WEBS)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (5a20:4f24)]   (Sid: 35) Client -> Server @ : 401 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 35) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (5a20:4f24)]   (Sid: 38) Client -> Server @ : 402 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 38) Server -> Client : 4486 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:22c8)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /dns-query"   
+[Network Analyzer (5a20:4f24)]   (Sid: 37) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 37) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /dns-query"   
+[Network Analyzer (5a20:4f24)]   (Sid: 37) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 33) Server -> Client : 170 bytes (SSL) (Service=WEBS)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 37) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:7f0c)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:7f0c)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /dns-query"   
+[Network Analyzer (5a20:4f24)]   (Sid: 40) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:8188)]   (Sid: 42) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid: 40) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:9b24)]   (Sid: 41) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:9b24)]   (Sid: 41) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:9fb0)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 34.149.100.209:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:8188)]   (Sid: 42) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (5a20:4f24)] "POST /dns-query"   
+[Network Analyzer (5a20:4f24)]   (Sid: 42) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20: a58)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:9fb0)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 42) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /v1/buckets/monitor/collections/changes/changeset?_expected=%221717513438961%22"   
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Client -> Server @ : 347 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20: a58)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1390 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Server -> Client : 1235 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 31) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid: 35) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid: 38) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 41) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 45) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 44) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 40) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /canonical.html"   
+[Network Analyzer (5a20:4f24)]   (Sid: 34) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 34) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /success.txt?ipv4"   
+[Network Analyzer (5a20:4f24)]   (Sid: 36) Client -> Server @ : 320 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 36) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent go_Wlcome_Page [Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/"   
+[Network Analyzer (5a20:4f24)]   (Sid: 46) Client -> Server @ : 520 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 46) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/header.html"   
+[Network Analyzer (5a20:4f24)]   (Sid: 46) Client -> Server @ : 574 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 46) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (5a20:4f24)]   (Sid: 47) Client -> Server @ : 484 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 47) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 47) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (5a20:4f24)]   (Sid: 47) Client -> Server @ : 497 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/home.html"   
+[Network Analyzer (5a20:4f24)]   (Sid: 46) Client -> Server @ : 593 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 46) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 47) Server -> Client : 1748 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 47) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /dns-query"   
+[Network Analyzer (5a20:4f24)]   (Sid: 37) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /dns-query"   
+[Network Analyzer (5a20:4f24)]   (Sid: 42) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 37) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 42) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 162.159.61.4:443   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:387c)]   (Sid: 48) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:387c)]   (Sid: 48) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /dns-query"   
+[Network Analyzer (5a20:4f24)]   (Sid: 48) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 48) Server -> Client : 690 bytes (SSL) (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent go_Wlcome_Page [Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 46) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 47) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[User action                 ] StartTransactionEvent login [Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Web Request      (5a20:4f24)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Client -> Server @ : 703 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Server -> Client : 840 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Client -> Server @ : 595 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (5a20:4f24)]   (Sid: 50) Client -> Server @ : 590 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Client -> Server @ : 516 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 50) Server -> Client : 1160 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (5a20:4f24)]   (Sid: 50) Client -> Server @ : 518 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 50) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Client -> Server @ : 516 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 51)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (5a20:4f24)]   (Sid: 50) Client -> Server @ : 516 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 50) Server -> Client : 1048 bytes  (Service=HTTP)
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 53)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent login [Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 49) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid: 50) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 51) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 52) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 53) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid:  7) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent go_Itinerary [Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 54)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Client -> Server @ : 612 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Server -> Client : 814 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Client -> Server @ : 617 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (5a20:4f24)]   (Sid: 55) Client -> Server @ : 600 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/in_itinerary.gif"   
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Client -> Server @ : 526 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 55) Server -> Client : 5143 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Client -> Server @ : 518 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 56)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/cancelreservation.gif"   
+[Network Analyzer (5a20:4f24)]   (Sid: 55) Client -> Server @ : 514 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "GET /WebTours/images/cancelallreservations.gif"   
+[Network Analyzer (5a20:4f24)]   (Sid: 56) Client -> Server @ : 518 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 55) Server -> Client : 1129 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 56) Server -> Client : 1041 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (5a20:4f24)]   (Sid: 26) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent go_Itinerary [Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 54) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid: 55) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid: 56) Connection Terminated (by Server)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 43) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent cancel_flight [Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:5da8)] Address lookup for SILVA = 192.168.56.1
+[Network Analyzer (5a20:5da8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 57)  PROXIED!
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (5a20:4f24)] "POST /cgi-bin/itinerary.pl"   
+[Network Analyzer (5a20:4f24)]   (Sid: 57) Client -> Server @ : 840 bytes (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 57) Server -> Client : 4016 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid: 57) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent cancel_flight [Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (5a20:4f24)]   (Sid: 57) Connection Terminated (by Client)

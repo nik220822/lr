@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\User_1\Documents\VuGen\Scripts\UC4_LookThroughItinerary
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\user_1\documents\vugen\scripts\uc4_lookthroughitinerary\\logfile.log
+c:\users\user_1\documents\vugen\scripts\uc4_lookthroughitinerary\\combined_UC4_LookThroughItinerary.c
+c:\users\user_1\documents\vugen\scripts\uc4_lookthroughitinerary\\pre_cci.c

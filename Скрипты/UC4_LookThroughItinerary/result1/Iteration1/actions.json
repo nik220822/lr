@@ -1,0 +1,73 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1717595240555
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: WebTours_2",
+                "infFile": "t2.inf",
+                "time": 1717595240694
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: header.html",
+                "infFile": "t3.inf",
+                "time": 1717595240741
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t5.inf",
+                "time": 1717595240847
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t6.inf",
+                "time": 1717595241108
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t7.inf",
+                "time": 1717595241336
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "go_Welcome_Page",
+                "rawStartTime": 1717595240584,
+                "rawEndTime": 1717595240857,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011341333389282227
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1717595240872,
+                "rawEndTime": 1717595241113,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005103111267089844
+            },
+            {
+                "transactionName": "go_Itinerary",
+                "rawStartTime": 1717595241129,
+                "rawEndTime": 1717595241352,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004227876663208008
+            },
+            {
+                "transactionName": "UC4_LookThroughItinerary",
+                "rawStartTime": 1717595240272,
+                "rawEndTime": 1717595241367,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0855104923248291
+            }
+        ]
+    }
+]

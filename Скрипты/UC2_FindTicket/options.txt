@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\User_1\Documents\VuGen\Scripts\UC2_FindTicket
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\user_1\documents\vugen\scripts\uc2_findticket\\logfile.log
+c:\users\user_1\documents\vugen\scripts\uc2_findticket\\combined_UC2_FindTicket.c
+c:\users\user_1\documents\vugen\scripts\uc2_findticket\\pre_cci.c

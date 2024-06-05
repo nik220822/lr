@@ -1,0 +1,9 @@
+[t66]
+FileName1=t66.html
+URL1=http://localhost:1080/WebTours/
+Total=1
+RequestHeaderFile=t66_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t66_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_66.xml
