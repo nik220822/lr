@@ -102,6 +102,8 @@ Action()
 	
 	
 	
+	lr_think_time(5);
+	
 	
 
 	lr_start_transaction("login");
@@ -116,7 +118,6 @@ Action()
 	web_add_auto_header("Priority", 
 		"u=4");
 
-	lr_think_time(5);
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -139,17 +140,16 @@ Action()
 	
 	
 	
-	
+	lr_think_time(23);
 	
 
+	
 	lr_start_transaction("logout");
 	
 	web_reg_find("Text=Welcome to the Web Tours site",LAST);
 
 	web_add_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(23);
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 

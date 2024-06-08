@@ -93,6 +93,7 @@ Action()
 
 	
 	
+	lr_think_time(58);
 	
 	
 	
@@ -107,8 +108,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(58);
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -131,6 +130,7 @@ Action()
 
 	
 	
+	lr_think_time(38);
 	
 	
 	
@@ -139,8 +139,6 @@ Action()
 	web_reg_find("Text=Find Flight",LAST);
 
 	web_revert_auto_header("Upgrade-Insecure-Requests");
-
-	lr_think_time(38);
 
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
@@ -154,9 +152,9 @@ Action()
 
 	lr_end_transaction("go_Flight",LR_AUTO);
 
-
 	
 	
+	lr_think_time(86);
 	
 	
 	
@@ -169,8 +167,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(86);
 
 /*Correlation comment - Do not change!  Original value='080;792;05/29/2024' Name ='outboundFlight' Type ='ResponseBased'*/
 	web_reg_save_param_attrib(
@@ -211,14 +207,8 @@ Action()
 
 	
 	
-	
-	
-	
 	lr_think_time(48);
 
-	
-	
-	
 	
 	
 	lr_start_transaction("find_Flight_Continue_Two");
@@ -245,10 +235,9 @@ Action()
 
 	lr_end_transaction("find_Flight_Continue_Two",LR_AUTO);
 
-	
 
 	
-	
+	lr_think_time(35);
 	
 	
 	
@@ -265,8 +254,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(35);
 
 	web_submit_data("reservations.pl_3",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",

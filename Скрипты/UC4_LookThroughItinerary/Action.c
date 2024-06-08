@@ -35,12 +35,11 @@ Action()
 		"Snapshot=t1.inf", 
 		"Mode=HTML", 
 		LAST);
+	
+	
 
 	lr_think_time(64);
 
-	
-	
-	
 	
 	
 	lr_start_transaction("go_Welcome_Page");
@@ -94,6 +93,7 @@ Action()
 
 	
 	
+	lr_think_time(58);
 	
 	
 	
@@ -108,8 +108,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(58);
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -132,6 +130,8 @@ Action()
 
 	
 	
+	lr_think_time(85);
+	
 	
 	
 	lr_start_transaction("go_Itinerary");
@@ -140,8 +140,6 @@ Action()
 	web_reg_find("Text=Itinerary",LAST);
 
 	web_revert_auto_header("Upgrade-Insecure-Requests");
-
-	lr_think_time(85);
 
 	web_url("Itinerary Button",
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary",

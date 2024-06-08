@@ -37,11 +37,11 @@ Action()
 
 	/*Connection ID 1 received buffer WebSocketReceive0*/
 
+	
+	
 	lr_think_time(27);
 	
 	
-	
-
 	
 	lr_start_transaction("go_Welcome_Page");
 	
@@ -82,7 +82,9 @@ Action()
 	
 	
 	
+	lr_think_time(27);
 
+	
 	
 	lr_start_transaction("sign_up");
 	
@@ -92,8 +94,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(21);
 
 	web_url("login.pl", 
 		"URL=http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true", 
@@ -108,6 +108,8 @@ Action()
 	lr_end_transaction("sign_up",LR_AUTO);
 	
 	
+	
+	lr_think_time(21);
 	
 	
 	
@@ -128,8 +130,6 @@ Action()
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(113);
 
 	web_submit_data("login.pl_2", 
 		"Action=http://localhost:1080/cgi-bin/login.pl", 
