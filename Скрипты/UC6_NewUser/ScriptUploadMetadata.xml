@@ -20,6 +20,7 @@
     <FileEntry Name="246225067440.idx" Filter="1" />
     <FileEntry Name="24622506744_2Ki.915.idx" Filter="1" />
     <FileEntry Name="24622506744_4lj.977.idx" Filter="1" />
+    <FileEntry Name="24622506744_6cZ.581.idx" Filter="1" />
     <FileEntry Name="24622506744_7DP.687.idx" Filter="1" />
     <FileEntry Name="24622506744_89b.447.idx" Filter="1" />
     <FileEntry Name="24622506744_ASn.291.idx" Filter="1" />
@@ -30,7 +31,9 @@
     <FileEntry Name="24622506744_IS8.851.idx" Filter="1" />
     <FileEntry Name="24622506744_K20.839.idx" Filter="1" />
     <FileEntry Name="24622506744_K65.177.idx" Filter="1" />
+    <FileEntry Name="24622506744_L1Y.795.idx" Filter="1" />
     <FileEntry Name="24622506744_l5M.193.idx" Filter="1" />
+    <FileEntry Name="24622506744_mOL.361.idx" Filter="1" />
     <FileEntry Name="24622506744_nuR.361.idx" Filter="1" />
     <FileEntry Name="24622506744_ojS.961.idx" Filter="1" />
     <FileEntry Name="24622506744_pev.201.idx" Filter="1" />
@@ -38,6 +41,7 @@
     <FileEntry Name="24622506744_QV8.277.idx" Filter="1" />
     <FileEntry Name="24622506744_yaG.241.idx" Filter="1" />
     <FileEntry Name="24622506744_zdZ.983.idx" Filter="1" />
+    <FileEntry Name="24622506744_ZfZ.333.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -58,6 +62,7 @@
     <FileEntry Name="rundom_number.dat" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC6_NewUser.c.pickle" Filter="1" />
     <FileEntry Name="UC6_NewUser.ci" Filter="1" />
     <FileEntry Name="UC6_NewUser.prm.bak" Filter="1" />

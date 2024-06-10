@@ -1,2 +1,2 @@
-"userSession=139132.865937627HVfzztzpHQVzzzzHtcQDQpiiAHf&username=richardfeynman&password=quant"
-"umleap&login.x=64&login.y=15&JSFormSubmit=off"
+"userSession=139169.02818955HVfifAzpiiHftcQfVpAtVDcf&username=jameschadwick&password=neutron&lo"
+"gin.x=64&login.y=15&JSFormSubmit=off"

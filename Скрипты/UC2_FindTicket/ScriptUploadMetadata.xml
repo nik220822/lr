@@ -48,6 +48,7 @@
     <FileEntry Name="seatingPref.dat" Filter="1" />
     <FileEntry Name="street.dat" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC2_FindTicket.c.pickle" Filter="1" />
     <FileEntry Name="UC2_FindTicket.ci" Filter="1" />
     <FileEntry Name="UC2_FindTicket.prm.bak" Filter="1" />

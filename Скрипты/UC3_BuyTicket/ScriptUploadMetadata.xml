@@ -177,11 +177,13 @@
     <FileEntry Name="23529079844_SHG.784.idx" Filter="1" />
     <FileEntry Name="23529079844_SoP.892.idx" Filter="1" />
     <FileEntry Name="23529079844_UD7.520.idx" Filter="1" />
+    <FileEntry Name="23529079844_uLc.541.idx" Filter="1" />
     <FileEntry Name="23529079844_UyD.242.idx" Filter="1" />
     <FileEntry Name="23529079844_VHV.384.idx" Filter="1" />
     <FileEntry Name="23529079844_vIL.52.idx" Filter="1" />
     <FileEntry Name="23529079844_vjt.781.idx" Filter="1" />
     <FileEntry Name="23529079844_VLp.807.idx" Filter="1" />
+    <FileEntry Name="23529079844_vmu.421.idx" Filter="1" />
     <FileEntry Name="23529079844_WMi.887.idx" Filter="1" />
     <FileEntry Name="23529079844_yNR.806.idx" Filter="1" />
     <FileEntry Name="7692017440.idx" Filter="1" />
@@ -213,6 +215,7 @@
     <FileEntry Name="seatingPref.dat" Filter="1" />
     <FileEntry Name="street.dat" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC3_BuyTicket.c.pickle" Filter="1" />
     <FileEntry Name="UC3_BuyTicket.ci" Filter="1" />
     <FileEntry Name="UC3_BuyTicket.prm.bak" Filter="1" />

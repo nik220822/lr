@@ -2792,6 +2792,8 @@ Action()
 	
 	
 	
+	lr_think_time(19);
+	
 	
 	
 	lr_start_transaction("login");
@@ -2800,8 +2802,6 @@ Action()
 	
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(19);
 
 	web_custom_request("login.pl",
 		"URL=http://localhost:1080/cgi-bin/login.pl",
@@ -2880,6 +2880,9 @@ Action()
 
 	lr_end_transaction("login",2);
 	
+	
+	
+	lr_think_time(19);
 	
 	
 	
@@ -2961,6 +2964,8 @@ Action()
 	
 
 	
+	lr_think_time(11);
+	
 	
 	
 	lr_start_transaction("cancel_flight");
@@ -2989,8 +2994,6 @@ Action()
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(11);
 
 	 
      

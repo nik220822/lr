@@ -48,6 +48,7 @@
     <FileEntry Name="seatingPref.dat" Filter="1" />
     <FileEntry Name="street.dat" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC4_LookThroughItinerary.c.pickle" Filter="1" />
     <FileEntry Name="UC4_LookThroughItinerary.ci" Filter="1" />
     <FileEntry Name="UC4_LookThroughItinerary.prm.bak" Filter="1" />

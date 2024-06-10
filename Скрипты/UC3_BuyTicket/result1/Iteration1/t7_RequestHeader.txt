@@ -9,5 +9,5 @@ Accept-Language: en-US,en;q=0.5
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1717595230; MTUserInfo=firstName&&address2&&username&richardfeynman&hash&78&lastName&%0A&address1&&creditCard&&expDate&%0A
+Cookie: MSO=SID&1718041653; MTUserInfo=firstName&&address2&&username&jameschadwick&hash&11&lastName&%0A&address1&&creditCard&&expDate&%0A
 

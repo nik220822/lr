@@ -2641,8 +2641,6 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(39);
-
 	web_url("WebTours", 
 		"URL=http://localhost:1080/WebTours/", 
 		"TargetFrame=", 
@@ -2652,8 +2650,6 @@ Action()
 		"Snapshot=t1.inf", 
 		"Mode=HTML", 
 		"LAST");
-
-	lr_think_time(64);
 
 	
 	
@@ -2711,6 +2707,7 @@ Action()
 
 	
 	
+	lr_think_time(58);
 	
 	
 	
@@ -2725,8 +2722,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(58);
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -2749,6 +2744,7 @@ Action()
 
 	
 	
+	lr_think_time(38);
 	
 	
 	
@@ -2757,8 +2753,6 @@ Action()
 	web_reg_find("Text=Find Flight","LAST");
 
 	(web_remove_auto_header("Upgrade-Insecure-Requests", "ImplicitGen=Yes", "LAST"));
-
-	lr_think_time(38);
 
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
@@ -2772,9 +2766,9 @@ Action()
 
 	lr_end_transaction("go_Flight",2);
 
-
 	
 	
+	lr_think_time(86);
 	
 	
 	
@@ -2787,8 +2781,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(86);
 
  
 	web_reg_save_param_attrib(
@@ -2829,14 +2821,8 @@ Action()
 
 	
 	
-	
-	
-	
 	lr_think_time(48);
 
-	
-	
-	
 	
 	
 	lr_start_transaction("find_Flight_Continue_Two");
@@ -2863,10 +2849,9 @@ Action()
 
 	lr_end_transaction("find_Flight_Continue_Two",2);
 
-	
 
 	
-	
+	lr_think_time(35);
 	
 	
 	
@@ -2883,8 +2868,6 @@ Action()
 
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
-
-	lr_think_time(35);
 
 	web_submit_data("reservations.pl_3",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",

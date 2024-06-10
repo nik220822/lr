@@ -38,11 +38,6 @@ Action()
 	/*Connection ID 1 received buffer WebSocketReceive0*/
 
 	
-	
-	lr_think_time(27);
-	
-	
-	
 	lr_start_transaction("go_Welcome_Page");
 	
 	web_reg_find("Text=Welcome to the Web Tours site",LAST);
@@ -113,6 +108,9 @@ Action()
 	
 	
 	
+	lr_start_transaction("customer_profile_continue");
+	
+	
 	lr_param_sprintf("random_login", "%s", lr_eval_string("{random_char}"));
 	
 	for(i=0; i<atoi(lr_eval_string("{random_number}")); i++)
@@ -120,13 +118,8 @@ Action()
 	
 	lr_output_message("New login is: %s", lr_eval_string("{random_login}"));
 	
-	
-	
-	
-	
-	lr_start_transaction("customer_profile_continue");
-	
 	web_reg_find("Text=welcome to the Web Tours family",LAST);
+	
 
 	web_add_header("Origin", 
 		"http://localhost:1080");

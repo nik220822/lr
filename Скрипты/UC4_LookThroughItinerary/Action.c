@@ -24,8 +24,6 @@ Action()
 	web_add_auto_header("Upgrade-Insecure-Requests", 
 		"1");
 
-	lr_think_time(39);
-
 	web_url("WebTours", 
 		"URL=http://localhost:1080/WebTours/", 
 		"TargetFrame=", 
@@ -36,12 +34,8 @@ Action()
 		"Mode=HTML", 
 		LAST);
 	
-	
 
-	lr_think_time(64);
 
-	
-	
 	lr_start_transaction("go_Welcome_Page");
 	
 	web_reg_find("Text=Welcome to the Web Tours site",LAST);

@@ -76,6 +76,7 @@
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
     <FileEntry Name="UC5_CancelFlight.c.pickle" Filter="1" />
     <FileEntry Name="UC5_CancelFlight.ci" Filter="1" />
     <FileEntry Name="UC5_CancelFlight.prm.bak" Filter="1" />
