@@ -53,7 +53,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC4_LookThroughItinerary__*delimiter*__go_Welcome_Page__*delimiter*__login__*delimiter*__go_Itinerary"
+Order="UC4_LookThroughItinerary__*delimiter*__go_Welcome_Page__*delimiter*__login__*delimiter*__logout__*delimiter*__go_Itinerary__*delimiter*__go_Flight"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -63,4 +63,6 @@ ActiveRunName=result1
 UC4_LookThroughItinerary=
 go_Welcome_Page=
 login=
+logout=
 go_Itinerary=
+go_Flight=

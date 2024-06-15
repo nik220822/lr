@@ -1,2 +1,2 @@
-"userSession=139168.92417983HVfifAVpfDHftcQfVpAAQccf&username=robertopp&password=atomicbomb&log"
-"in.x=50&login.y=13&JSFormSubmit=off"
+"userSession=139183.091211017HVfQcDApcftVzzzHtcQffpDiVfcf&username=wernerheisenberg&password=un"
+"certainty&login.x=50&login.y=13&JSFormSubmit=off"

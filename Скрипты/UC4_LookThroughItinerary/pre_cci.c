@@ -2742,7 +2742,31 @@ Action()
 
 	
 	
-	lr_think_time(85);
+	lr_think_time(38);
+	
+	
+	
+	lr_start_transaction("go_Flight");
+	
+	web_reg_find("Text=Find Flight","LAST");
+
+	(web_remove_auto_header("Upgrade-Insecure-Requests", "ImplicitGen=Yes", "LAST"));
+
+	web_url("Search Flights Button", 
+		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
+		"TargetFrame=body", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t6.inf", 
+		"Mode=HTML", 
+		"LAST");
+
+	lr_end_transaction("go_Flight",2);
+
+	
+	
+	lr_think_time(86);
 	
 	
 	
@@ -2766,6 +2790,25 @@ Action()
 	lr_end_transaction("go_Itinerary",2);
 
 	
+	
+	lr_start_transaction("logout");
+	
+	web_reg_find("Text=Welcome to the Web Tours site","LAST");
+
+	web_add_header("Upgrade-Insecure-Requests", 
+		"1");
+
+	web_url("SignOff Button", 
+		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 
+		"TargetFrame=body", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t3.inf", 
+		"Mode=HTML", 
+		"LAST");
+
+	lr_end_transaction("logout",2);
 	
 	
 	

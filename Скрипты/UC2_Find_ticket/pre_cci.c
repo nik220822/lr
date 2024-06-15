@@ -2851,9 +2851,6 @@ Action()
 
 
 	
-	
-	
-	
 	lr_end_transaction("UC2_Find_ticket", 2);
 
 	

@@ -2899,8 +2899,33 @@ Action()
 		"LAST");
 
 	lr_end_transaction("payment_Details_Continue",2);
-
 	
+	
+	
+	lr_think_time(35);
+	
+	
+	
+	lr_start_transaction("logout");
+	
+	web_reg_find("Text=Welcome to the Web Tours site","LAST");
+
+	web_add_header("Upgrade-Insecure-Requests", 
+		"1");
+
+	web_url("SignOff Button", 
+		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 
+		"TargetFrame=body", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t3.inf", 
+		"Mode=HTML", 
+		"LAST");
+
+	lr_end_transaction("logout",2);
+	
+
 	
 	lr_end_transaction("UC3_BuyTicket", 2);
 

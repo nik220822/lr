@@ -1,2 +1,2 @@
-"userSession=139169.102713649HVfifVApHcAiDDDDtcQfVpAztDcf&username=lisemeitner&password=nuclear"
-"fission&login.x=64&login.y=15&JSFormSubmit=off"
+"userSession=139204.283920616HVzADcApDftVzzzHtcQzVpQccVcf&username=leoszilard&password=chainrea"
+"ction&login.x=64&login.y=15&JSFormSubmit=off"

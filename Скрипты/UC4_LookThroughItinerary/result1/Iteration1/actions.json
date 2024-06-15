@@ -6,67 +6,93 @@
                 "stepId": "STEP1",
                 "stepName": "Url: WebTours",
                 "infFile": "t1.inf",
-                "time": 1718042573293
+                "time": 1718476884997
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: WebTours_2",
                 "infFile": "t2.inf",
-                "time": 1718042573517
+                "time": 1718476885123
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Url: header.html",
                 "infFile": "t3.inf",
-                "time": 1718042573562
+                "time": 1718476885166
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Url: welcome.pl",
                 "infFile": "t5.inf",
-                "time": 1718042573765
+                "time": 1718476885262
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Submit Data: login.pl",
                 "infFile": "t6.inf",
-                "time": 1718042579142
+                "time": 1718476890516
             },
             {
                 "stepId": "STEP6",
-                "stepName": "Url: Itinerary Button",
+                "stepName": "Url: Search Flights Button",
                 "infFile": "t7.inf",
-                "time": 1718042584473
+                "time": 1718476895757
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t8.inf",
+                "time": 1718476900969
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t9.inf",
+                "time": 1718476901119
             }
         ],
         "transactions": [
             {
                 "transactionName": "go_Welcome_Page",
-                "rawStartTime": 1718042573301,
-                "rawEndTime": 1718042573772,
+                "rawStartTime": 1718476885013,
+                "rawEndTime": 1718476885278,
                 "thinkTime": 0.0,
-                "wastedTime": 0.02588963508605957
+                "wastedTime": 0.011613607406616211
             },
             {
                 "transactionName": "login",
-                "rawStartTime": 1718042578815,
-                "rawEndTime": 1718042579158,
+                "rawStartTime": 1718476890323,
+                "rawEndTime": 1718476890528,
                 "thinkTime": 0.0,
-                "wastedTime": 0.010420083999633789
+                "wastedTime": 0.004702329635620117
+            },
+            {
+                "transactionName": "go_Flight",
+                "rawStartTime": 1718476895576,
+                "rawEndTime": 1718476895766,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00431513786315918
             },
             {
                 "transactionName": "go_Itinerary",
-                "rawStartTime": 1718042584200,
-                "rawEndTime": 1718042584480,
+                "rawStartTime": 1718476900805,
+                "rawEndTime": 1718476900980,
                 "thinkTime": 0.0,
-                "wastedTime": 0.008934736251831055
+                "wastedTime": 0.003452777862548828
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1718476900996,
+                "rawEndTime": 1718476901121,
+                "thinkTime": 0.0,
+                "wastedTime": 0.002960681915283203
             },
             {
                 "transactionName": "UC4_LookThroughItinerary",
-                "rawStartTime": 1718042572755,
-                "rawEndTime": 1718042584495,
-                "thinkTime": 10.019834,
-                "wastedTime": 0.21770286560058595
+                "rawStartTime": 1718476884724,
+                "rawEndTime": 1718476901137,
+                "thinkTime": 15.034073,
+                "wastedTime": 0.10048317909240723
             }
         ]
     }

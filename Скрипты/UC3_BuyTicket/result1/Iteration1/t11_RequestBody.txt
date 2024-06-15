@@ -1,4 +1,4 @@
-"firstName=James&lastName=Chadwick&address1=404+Particle+Rd&address2=London&pass1=+James+Chadwi"
-"ck1&creditCard=0123456789012345&expDate=12%2F47&oldCCOption=&numPassengers=1&seatType=Coach&se"
-"atPref=Window&outboundFlight=000%3B0%3B06%2F13%2F2024&advanceDiscount=0&returnFlight=&JSFormSu"
-"bmit=off&buyFlights.x=59&buyFlights.y=5&.cgifields=saveCC"
+"firstName=Ernest&lastName=Rutherford&address1=789+Nucleus+Rd&address2=Manchester&pass1=+Ernest"
+"+Rutherford&creditCard=6789012345678901&expDate=11%2F47&oldCCOption=&numPassengers=1&seatType="
+"Business&seatPref=Aisle&outboundFlight=400%3B508%3B06%2F18%2F2024&advanceDiscount=0&returnFlig"
+"ht=&JSFormSubmit=off&buyFlights.x=59&buyFlights.y=5&.cgifields=saveCC"
