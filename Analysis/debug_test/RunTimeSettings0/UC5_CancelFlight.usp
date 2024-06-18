@@ -37,9 +37,9 @@ RunLogicObjectKind=Action
 [RunLogicInitRoot]
 MercIniTreeFather=
 MercIniTreeSectionName=RunLogicInitRoot
-MercIniTreeSons=vuser_init,Action
+MercIniTreeSons=vuser_init
 Name=Init
-RunLogicActionOrder=Action,vuser_init
+RunLogicActionOrder=vuser_init
 RunLogicActionType=VuserInit
 RunLogicNumOfIterations=1
 RunLogicObjectKind=Group
@@ -59,9 +59,9 @@ RunLogicObjectKind=Action
 [RunLogicRunRoot]
 MercIniTreeFather=
 MercIniTreeSectionName=RunLogicRunRoot
-MercIniTreeSons=
+MercIniTreeSons=Action
 Name=Run
-RunLogicActionOrder=
+RunLogicActionOrder=Action
 RunLogicActionType=VuserRun
 RunLogicAfterPaceMax=90
 RunLogicAfterPaceMin=60
@@ -73,3 +73,9 @@ RunLogicPaceType=Const
 RunLogicRandomPaceMax=90
 RunLogicRandomPaceMin=60
 RunLogicRunMode=Sequential
+[RunLogicRunRoot:Action]
+MercIniTreeFather=RunLogicRunRoot
+MercIniTreeSectionName=Action
+Name=Action
+RunLogicActionType=VuserRun
+RunLogicObjectKind=Action
