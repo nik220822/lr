@@ -1,0 +1,3 @@
+login,password,firstName,lastName,street,city,passengers,cardNumber,cardDate
+kolya,123,Nikolai,Pavlov,Purple Street,Green-City,Nikolai Pavlov,12345678912345678912,12.24
+olya,456,Olga,Orlova,Cian Street,Yell-City,Olga Orlova,3456789,12.25

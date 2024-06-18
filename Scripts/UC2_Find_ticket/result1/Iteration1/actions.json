@@ -1,0 +1,125 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1718656341599
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: WebTours_2",
+                "infFile": "t2.inf",
+                "time": 1718656341719
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: header.html",
+                "infFile": "t3.inf",
+                "time": 1718656341758
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t5.inf",
+                "time": 1718656341856
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t6.inf",
+                "time": 1718656347128
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t7.inf",
+                "time": 1718656352368
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t9.inf",
+                "time": 1718656357554
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t10.inf",
+                "time": 1718656362694
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t11.inf",
+                "time": 1718656367948
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t12.inf",
+                "time": 1718656373140
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "go_Welcome_Page",
+                "rawStartTime": 1718656341604,
+                "rawEndTime": 1718656341869,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011539459228515625
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1718656346907,
+                "rawEndTime": 1718656347140,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005707502365112305
+            },
+            {
+                "transactionName": "go_Flight",
+                "rawStartTime": 1718656352178,
+                "rawEndTime": 1718656352381,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004525899887084961
+            },
+            {
+                "transactionName": "find_Flight_Continue",
+                "rawStartTime": 1718656357422,
+                "rawEndTime": 1718656357563,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004057168960571289
+            },
+            {
+                "transactionName": "find_Flight_Continue_Two",
+                "rawStartTime": 1718656362605,
+                "rawEndTime": 1718656362698,
+                "thinkTime": 0.0,
+                "wastedTime": 0.002689838409423828
+            },
+            {
+                "transactionName": "go_Itinerary",
+                "rawStartTime": 1718656367745,
+                "rawEndTime": 1718656367962,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0038433074951171877
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1718656373006,
+                "rawEndTime": 1718656373147,
+                "thinkTime": 0.0,
+                "wastedTime": 0.002912282943725586
+            },
+            {
+                "transactionName": "UC2_Find_ticket",
+                "rawStartTime": 1718656341306,
+                "rawEndTime": 1718656373164,
+                "thinkTime": 30.057608000000003,
+                "wastedTime": 0.1155538558959961
+            }
+        ]
+    }
+]

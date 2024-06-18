@@ -1,2 +1,0 @@
-"userSession=139204.104657756HVzADVVpVDDDDDDDtcQzVpizzi&username=neilsbohr&password=atomicmodel"
-"&login.x=64&login.y=15&JSFormSubmit=off"

@@ -1,0 +1,86 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t2.inf",
+                "time": 1718657016289
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: WebTours_2",
+                "infFile": "t3.inf",
+                "time": 1718657016411
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: header.html",
+                "infFile": "t4.inf",
+                "time": 1718657016444
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t6.inf",
+                "time": 1718657016534
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t7.inf",
+                "time": 1718657021771
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t8.inf",
+                "time": 1718657027014
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t9.inf",
+                "time": 1718657032185
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "go_Welcome_Page",
+                "rawStartTime": 1718657016307,
+                "rawEndTime": 1718657016546,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00859975814819336
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1718657021580,
+                "rawEndTime": 1718657021787,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00469517707824707
+            },
+            {
+                "transactionName": "go_Itinerary",
+                "rawStartTime": 1718657026822,
+                "rawEndTime": 1718657027030,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004766702651977539
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1718657032064,
+                "rawEndTime": 1718657032191,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0025289058685302736
+            },
+            {
+                "transactionName": "UC1_Loginout",
+                "rawStartTime": 1718657016040,
+                "rawEndTime": 1718657032208,
+                "thinkTime": 15.006999,
+                "wastedTime": 0.08679723739624024
+            }
+        ]
+    }
+]
