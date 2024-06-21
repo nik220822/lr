@@ -6,81 +6,81 @@
                 "stepId": "STEP1",
                 "stepName": "Custom Request: WebTours",
                 "infFile": "t1.inf",
-                "time": 1718659018508
+                "time": 1718704508236
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Custom Request: login.pl",
                 "infFile": "t7.inf",
-                "time": 1718659024125
+                "time": 1718704513618
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Custom Request: Itinerary Button",
                 "infFile": "t10.inf",
-                "time": 1718659029456
+                "time": 1718704518835
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Custom Request: itinerary.pl_2",
                 "infFile": "t13.inf",
-                "time": 1718659035519
+                "time": 1718704524855
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Custom Request: itinerary.pl",
                 "infFile": "t14.inf",
-                "time": 1718659035600
+                "time": 1718704524933
             },
             {
                 "stepId": "STEP6",
                 "stepName": "Url: SignOff Button",
                 "infFile": "t15.inf",
-                "time": 1718659040765
+                "time": 1718704530059
             }
         ],
         "transactions": [
             {
                 "transactionName": "go_Welcome_Page",
-                "rawStartTime": 1718659018661,
-                "rawEndTime": 1718659018992,
+                "rawStartTime": 1718704508326,
+                "rawEndTime": 1718704508526,
                 "thinkTime": 0.0,
-                "wastedTime": 0.012937545776367188
+                "wastedTime": 0.014928579330444336
             },
             {
                 "transactionName": "login",
-                "rawStartTime": 1718659024039,
-                "rawEndTime": 1718659024338,
+                "rawStartTime": 1718704513542,
+                "rawEndTime": 1718704513758,
                 "thinkTime": 0.0,
-                "wastedTime": 0.008676528930664063
+                "wastedTime": 0.00879049301147461
             },
             {
                 "transactionName": "go_Itinerary",
-                "rawStartTime": 1718659029381,
-                "rawEndTime": 1718659029665,
+                "rawStartTime": 1718704518776,
+                "rawEndTime": 1718704518974,
                 "thinkTime": 0.0,
-                "wastedTime": 0.007871389389038086
+                "wastedTime": 0.008717060089111328
             },
             {
                 "transactionName": "cancel_flight",
-                "rawStartTime": 1718659034704,
-                "rawEndTime": 1718659035605,
+                "rawStartTime": 1718704523992,
+                "rawEndTime": 1718704524940,
                 "thinkTime": 0.0,
-                "wastedTime": 0.008466720581054688
+                "wastedTime": 0.008166074752807618
             },
             {
                 "transactionName": "logout",
-                "rawStartTime": 1718659040641,
-                "rawEndTime": 1718659040768,
+                "rawStartTime": 1718704529957,
+                "rawEndTime": 1718704530065,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0031943321228027345
+                "wastedTime": 0.0037653446197509767
             },
             {
                 "transactionName": "UC5_CancelFlight",
-                "rawStartTime": 1718659018340,
-                "rawEndTime": 1718659040784,
-                "thinkTime": 20.035536999999999,
-                "wastedTime": 0.11152434349060059
+                "rawStartTime": 1718704508118,
+                "rawEndTime": 1718704530073,
+                "thinkTime": 19.999029999999999,
+                "wastedTime": 0.1121220588684082
             }
         ]
     }

@@ -78,7 +78,7 @@ Action()
 	
 	
 	lr_think_time(27);
-
+	
 	
 	
 	lr_start_transaction("sign_up");
@@ -148,8 +148,92 @@ Action()
 		LAST);
 
 	lr_end_transaction("customer_profile_continue",LR_AUTO);
-
 	
+	
+	
+	lr_think_time(37);
+	
+	
+
+	lr_start_transaction("customer_profile_continue_2");
+	
+	web_reg_find("Text=User has returned to the home page",LAST);
+
+	web_custom_request("button_next.gif_2", 
+		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=menus", 
+		"Method=GET", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/login.pl", 
+		"Snapshot=t88.inf", 
+		"Mode=HTTP", 
+		LAST);
+
+	web_concurrent_start(NULL);
+
+	web_custom_request("login.pl_3", 
+		"URL=http://localhost:1080/cgi-bin/login.pl?intro=true", 
+		"Method=GET", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/welcome.pl?page=menus", 
+		"Snapshot=t89.inf", 
+		"Mode=HTTP", 
+		LAST);
+
+	web_custom_request("nav.pl_3", 
+		"URL=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Method=GET", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/welcome.pl?page=menus", 
+		"Snapshot=t90.inf", 
+		"Mode=HTTP", 
+		LAST);
+
+	web_concurrent_end(NULL);
+
+	web_concurrent_start(NULL);
+
+	web_custom_request("itinerary.gif", 
+		"URL=http://localhost:1080/WebTours/images/itinerary.gif", 
+		"Method=GET", 
+		"Resource=1", 
+		"RecContentType=image/gif", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t91.inf", 
+		LAST);
+
+	web_custom_request("in_home.gif", 
+		"URL=http://localhost:1080/WebTours/images/in_home.gif", 
+		"Method=GET", 
+		"Resource=1", 
+		"RecContentType=image/gif", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t92.inf", 
+		LAST);
+
+	web_custom_request("flights.gif", 
+		"URL=http://localhost:1080/WebTours/images/flights.gif", 
+		"Method=GET", 
+		"Resource=1", 
+		"RecContentType=image/gif", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t93.inf", 
+		LAST);
+
+	web_custom_request("signoff.gif", 
+		"URL=http://localhost:1080/WebTours/images/signoff.gif", 
+		"Method=GET", 
+		"Resource=1", 
+		"RecContentType=image/gif", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t94.inf", 
+		LAST);
+
+	web_concurrent_end(NULL);
+
+	lr_end_transaction("customer_profile_continue_2",LR_AUTO);
 	
 	
 	

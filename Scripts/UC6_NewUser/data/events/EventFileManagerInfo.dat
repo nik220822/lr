@@ -1,5 +1,5 @@
-EventId=5985
-RecordingNumber=7
+EventId=6532
+RecordingNumber=8
 
 ActionInfo
 ActionName=Action
@@ -12,7 +12,7 @@ EndActionInfo
 ActionName=Action1
 ActionId=2
 ActionFileSize=907714
-ActionDeleted=0
+ActionDeleted=1
 RecordingNumber=4
 EndActionInfo
 
@@ -28,5 +28,12 @@ ActionId=4
 ActionFileSize=962896
 ActionDeleted=0
 RecordingNumber=7
+EndActionInfo
+
+ActionName=Action1
+ActionId=5
+ActionFileSize=650061
+ActionDeleted=0
+RecordingNumber=8
 EndActionInfo
 

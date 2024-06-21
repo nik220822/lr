@@ -1,0 +1,22 @@
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+Action.c(364): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(395): 1=on&flightID=210327807-831-RO&flightID=21032233-1560-RO&flightID=210307416-2327-RO&removeFlights.x=36&removeFlights.y=4&.cgifields=1&.cgifields=3&.cgifields=2	[MsgId: MMSG-17999]
+Action.c(397): web_custom_request("itinerary.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(397): web_custom_request("itinerary.pl_2") was successful, 932 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(408): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(408): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(412): web_custom_request("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(412): Error -26368: "Text=210327807-831-RO" found for web_reg_find (count=1)  	[MsgId: MERR-26368]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Action.c(397): web_custom_request("itinerary.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(397): web_custom_request("itinerary.pl_2") was successful, 932 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(408): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(408): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(412): web_custom_request("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(412): Error -26368: "Text=25145938-796-RF" found for web_reg_find (count=1)  	[MsgId: MERR-26368]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

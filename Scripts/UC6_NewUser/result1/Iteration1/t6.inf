@@ -2,14 +2,14 @@
 RequestBodyFile=t6_RequestBody.txt
 SaveSnapshotResources=1
 RequestHeaderFile=t6_RequestHeader.txt
-RawStepStartTime=1718041151245
+RawStepStartTime=1718824932979
 ContentType=text/html
 FrameIndex2=0.0
 RawStepName=login.pl_2
 FrameIndex3=0.1
 ResponseHeaderFile=t6_ResponseHeader.txt
 UseFrameIndex=1
-RawStepEndTime=1718041151280
+RawStepEndTime=1718824933013
 SnapshotXmlFile=snapshot_6.xml
 Total=9
 URL1=http://localhost:1080/cgi-bin/welcome.pl?signOff=true

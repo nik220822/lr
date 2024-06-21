@@ -1,4 +1,4 @@
-Virtual User Script started at: 6/18/2024 12:16:58 AM
+Virtual User Script started at: 6/18/2024 12:55:08 PM
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
@@ -63,7 +63,7 @@ Action.c(126): web_custom_request("nav.pl") started  	[MsgId: MMSG-26355]
 Action.c(126): Registering web_custom_request("nav.pl") was successful  	[MsgId: MMSG-26390]
 Action.c(136): web_concurrent_end started  	[MsgId: MMSG-26355]
 Action.c(136): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
-Action.c(136): web_concurrent_end was successful, 2850 body bytes, 553 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(136): web_concurrent_end was successful, 2849 body bytes, 553 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
 Action.c(138): web_add_header("Priority") started  	[MsgId: MMSG-26355]
 Action.c(138): web_add_header("Priority") was successful  	[MsgId: MMSG-26392]
 Action.c(141): web_custom_request("mer_login.gif") started  	[MsgId: MMSG-26355]
@@ -73,7 +73,7 @@ Action.c(150): Warning -35046: The WebSocket whose ID is "1" is not connected  	
 Action.c(150): web_websocket_send highest severity level was "warning"  	[MsgId: MMSG-26391]
 Action.c(157): web_add_auto_header("Priority") started  	[MsgId: MMSG-26355]
 Action.c(157): web_add_auto_header("Priority") was successful  	[MsgId: MMSG-26392]
-Action.c(160): Notify: Transaction "go_Welcome_Page" ended with a "Pass" status (Duration: 0.3312 Wasted Time: 0.0129).
+Action.c(160): Notify: Transaction "go_Welcome_Page" ended with a "Pass" status (Duration: 0.2000 Wasted Time: 0.0149).
 Action.c(164): Think time - Waiting 5.00 seconds (according to limit).
 Action.c(164): lr_think_time: 5.00 seconds (recorded think time was 19.00 seconds).
 Action.c(168): Notify: Transaction "login" started.
@@ -104,7 +104,7 @@ Action.c(239): web_custom_request("signoff.gif") started  	[MsgId: MMSG-26355]
 Action.c(239): Registering web_custom_request("signoff.gif") was successful  	[MsgId: MMSG-26390]
 Action.c(248): web_concurrent_end started  	[MsgId: MMSG-26355]
 Action.c(248): web_concurrent_end was successful, 2898 body bytes, 1190 header bytes  	[MsgId: MMSG-26386]
-Action.c(250): Notify: Transaction "login" ended with a "Pass" status (Duration: 0.2989 Wasted Time: 0.0087).
+Action.c(250): Notify: Transaction "login" ended with a "Pass" status (Duration: 0.2163 Wasted Time: 0.0088).
 Action.c(254): Think time - Waiting 5.00 seconds (according to limit).
 Action.c(254): lr_think_time: 5.00 seconds (recorded think time was 19.00 seconds).
 Action.c(258): Notify: Transaction "go_Itinerary" started.
@@ -124,7 +124,7 @@ Action.c(288): Registering web_custom_request("itinerary.pl") was successful  	[
 Action.c(298): web_custom_request("nav.pl_3") started  	[MsgId: MMSG-26355]
 Action.c(298): Registering web_custom_request("nav.pl_3") was successful  	[MsgId: MMSG-26390]
 Action.c(308): web_concurrent_end started  	[MsgId: MMSG-26355]
-Action.c(308): web_concurrent_end was successful, 13417 body bytes, 511 header bytes, 39 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(308): web_concurrent_end was successful, 27374 body bytes, 511 header bytes, 71 chunking overhead bytes  	[MsgId: MMSG-26385]
 Action.c(310): web_concurrent_start started  	[MsgId: MMSG-26355]
 Action.c(310): web_concurrent_start was successful  	[MsgId: MMSG-26392]
 Action.c(312): web_custom_request("cancelreservation.gif") started  	[MsgId: MMSG-26355]
@@ -133,7 +133,7 @@ Action.c(321): web_custom_request("cancelallreservations.gif") started  	[MsgId:
 Action.c(321): Registering web_custom_request("cancelallreservations.gif") was successful  	[MsgId: MMSG-26390]
 Action.c(330): web_concurrent_end started  	[MsgId: MMSG-26355]
 Action.c(330): web_concurrent_end was successful, 1573 body bytes, 596 header bytes  	[MsgId: MMSG-26386]
-Action.c(332): Notify: Transaction "go_Itinerary" ended with a "Pass" status (Duration: 0.2841 Wasted Time: 0.0079).
+Action.c(332): Notify: Transaction "go_Itinerary" ended with a "Pass" status (Duration: 0.1988 Wasted Time: 0.0087).
 Action.c(336): Think time - Waiting 5.00 seconds (according to limit).
 Action.c(336): lr_think_time: 5.00 seconds (recorded think time was 11.00 seconds).
 Action.c(340): Notify: Transaction "cancel_flight" started.
@@ -147,15 +147,15 @@ Action.c(362): web_concurrent_end started  	[MsgId: MMSG-26355]
 Action.c(362): web_concurrent_end was successful, 1421 body bytes, 597 header bytes  	[MsgId: MMSG-26386]
 Action.c(364): web_add_header("Origin") started  	[MsgId: MMSG-26355]
 Action.c(364): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
-Action.c(395): 1=on&flightID=210324078-778-RO&flightID=210331877-1592-RO&flightID=210328548-2369-RO&flightID=21032237-3109-RO&flightID=21032978-3878-RO&flightID=210298529-4637-RO&flightID=210325572-5419-RO&flightID=21031135-6204-RO&flightID=210329658-6983-RO&removeFlights.x=36&removeFlights.y=4&.cgifields=6&.cgifields=3&.cgifields=7&.cgifields=9&.cgifields=2&.cgifields=8&.cgifields=1&.cgifields=4&.cgifields=5
+Action.c(395): 1=on&flightID=210298529-791-RO&flightID=210325572-1572-RO&flightID=21031135-2358-RO&flightID=210329658-3137-RO&flightID=210307416-3865-RO&flightID=210298899-4637-RO&flightID=210296-53-RO&flightID=210325955-6214-RO&flightID=210296687-6966-RO&flightID=2103163006-77012-RO&flightID=210321117-8474-RO&flightID=210325968-92396-RO&flightID=210300014-10029-RO&flightID=210304843-10828-RO&flightID=210322233-11560-RO&flightID=2103251907-123192-RO&flightID=210329652-13123-RO&flightID=2103081535-138573-RO&flightID=210330753-14642-RO&flightID=210327807-15446-RO&flightID=21032233-16176-RO&removeFlights.x=36&removeFlights.y=4&.cgifields=11&.cgifields=21&.cgifields=7&.cgifields=17&.cgifields=2&.cgifields=1&.cgifields=18&.cgifields=16&.cgifields=13&.cgifields=6&.cgifields=3&.cgifields=9&.cgifields=12&.cgifields=20&.cgifields=14&.cgifields=15&.cgifields=8&.cgifields=4&.cgifields=19&.cgifields=10&.cgifields=5
 Action.c(397): web_custom_request("itinerary.pl_2") started  	[MsgId: MMSG-26355]
-Action.c(397): web_custom_request("itinerary.pl_2") was successful, 10775 body bytes, 255 header bytes, 27 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(397): web_custom_request("itinerary.pl_2") was successful, 24722 body bytes, 255 header bytes, 59 chunking overhead bytes  	[MsgId: MMSG-26385]
 Action.c(408): web_reg_find started  	[MsgId: MMSG-26355]
 Action.c(408): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 Action.c(412): web_custom_request("itinerary.pl") started  	[MsgId: MMSG-26355]
-Action.c(412): Registered web_reg_find successful for "Text=210324078-778-RO"  	[MsgId: MMSG-26362]
-Action.c(412): web_custom_request("itinerary.pl") was successful, 10775 body bytes, 255 header bytes, 27 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(422): Notify: Transaction "cancel_flight" ended with a "Pass" status (Duration: 0.9010 Wasted Time: 0.0085).
+Action.c(412): Registered web_reg_find successful for "Text=210298529-791-RO"  	[MsgId: MMSG-26362]
+Action.c(412): web_custom_request("itinerary.pl") was successful, 24722 body bytes, 255 header bytes, 59 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(422): Notify: Transaction "cancel_flight" ended with a "Pass" status (Duration: 0.9487 Wasted Time: 0.0082).
 Action.c(426): Think time - Waiting 5.00 seconds (according to limit).
 Action.c(426): lr_think_time: 5.00 seconds (recorded think time was 35.00 seconds).
 Action.c(430): Notify: Transaction "logout" started.
@@ -169,9 +169,9 @@ Action.c(437): Detected non-resource "http://localhost:1080/WebTours/home.html" 
 Action.c(437): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
 Action.c(437): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(437): Registered web_reg_find successful for "Text=Welcome to the Web Tours site" (count=1)  	[MsgId: MMSG-26364]
-Action.c(437): web_url("SignOff Button") was successful, 2173 body bytes, 584 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(447): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0.1265 Wasted Time: 0.0032).
-Action.c(451): Notify: Transaction "UC5_CancelFlight" ended with a "Pass" status (Duration: 22.4436 Think Time: 20.0355 Wasted Time: 0.1115).
+Action.c(437): web_url("SignOff Button") was successful, 2169 body bytes, 584 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(447): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0.1076 Wasted Time: 0.0038).
+Action.c(451): Notify: Transaction "UC5_CancelFlight" ended with a "Pass" status (Duration: 21.9554 Think Time: 19.9990 Wasted Time: 0.1121).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...

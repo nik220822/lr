@@ -16,9 +16,6 @@ Pass1=t9
 [t8]
 PassCount=1
 Pass1=t10
-[t10]
-PassCount=1
-Pass1=t11
 [t1]
 PassCount=1
 Pass1=t1
