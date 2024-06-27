@@ -10,7 +10,7 @@ DefaultDisplayType=Line
 UserGranularity=1
 RoundBarValues=0
 GraphDataCol1=
-TableName=T453815579T
+TableName=T1617079808T
 BasicTableName=
 AbsoluteTime=0
 DisableFilter=0
@@ -83,7 +83,7 @@ DimeFuncType0=FuncFragment
 FunctionName_UI0=Think Time
 DimensionName_UI0=Transaction Response Time,Aminimum,Amaximum
 FunctionFragmentValues_UI0=-Include Think Time
-DimensionFragmentValues_UI0=
+DimensionFragmentValues_UI0=!([Value]-[Think Time])!
 
 [Granularity]
 Dimension=Scenario Elapsed Time

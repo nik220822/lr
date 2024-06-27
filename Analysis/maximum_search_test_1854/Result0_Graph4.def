@@ -12,12 +12,54 @@ CustomData=
 
 [TabSheet]
 Visible=1
-ActivePage=0
+ActivePage=1
 
 [MultiUIInfos]
 Count=1
 
 [UIInfo0]
+Title0=UC6_NewUser
+Color0=13677637
+Active0=0
+Scale0=1
+ScaleState0=User
+UITitle0=
+Title1=UC5_CancelFlight
+Color1=9527892
+Active1=0
+Scale1=1
+ScaleState1=User
+UITitle1=
+Title2=UC4_LookThroughItinerary
+Color2=8747520
+Active2=0
+Scale2=1
+ScaleState2=User
+UITitle2=
+Title3=UC3_BuyTicket
+Color3=7887631
+Active3=0
+Scale3=1
+ScaleState3=User
+UITitle3=
+Title4=UC2_Find_ticket
+Color4=3070145
+Active4=0
+Scale4=1
+ScaleState4=User
+UITitle4=
+Title5=UC1_Loginout
+Color5=12102544
+Active5=0
+Scale5=1
+ScaleState5=User
+UITitle5=
+Title6=Action_Transaction
+Color6=8559404
+Active6=0
+Scale6=1
+ScaleState6=User
+UITitle6=
 
 [MoreUiInfos]
 ShowPieMarks=1
@@ -40,7 +82,7 @@ DefaultDisplayType=Line
 UserGranularity=1
 RoundBarValues=0
 GraphDataCol1=
-TableName=T453783697T
+TableName=T1617079744T
 BasicTableName=
 AbsoluteTime=0
 DisableFilter=0
@@ -113,7 +155,7 @@ DimeFuncType0=FuncFragment
 FunctionName_UI0=Think Time
 DimensionName_UI0=Transaction Response Time,Aminimum,Amaximum
 FunctionFragmentValues_UI0=-Include Think Time
-DimensionFragmentValues_UI0=
+DimensionFragmentValues_UI0=!([Value]-[Think Time])!
 
 [Granularity]
 Dimension=Scenario Elapsed Time

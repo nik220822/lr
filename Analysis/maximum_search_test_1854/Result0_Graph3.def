@@ -40,7 +40,7 @@ DefaultDisplayType=Bar
 UserGranularity=1
 RoundBarValues=1
 GraphDataCol1=Transaction Name
-TableName=T237983264T
+TableName=T1617079637T
 BasicTableName=
 AbsoluteTime=0
 DisableFilter=0
@@ -101,7 +101,7 @@ DimeFuncType0=FuncFragment
 FunctionName_UI0=Think Time
 DimensionName_UI0=Transaction Response Time,Aminimum,Amaximum
 FunctionFragmentValues_UI0=-Include Think Time
-DimensionFragmentValues_UI0=
+DimensionFragmentValues_UI0=!([Value]-[Think Time])!
 
 [Alerts]
 Number Of Alerts=0
